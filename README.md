@@ -1,102 +1,78 @@
 <!-- ===================== HERO ===================== -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=ANSH%20PATOLIYA&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ansh Patoliya</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🤖 AI/ML Engineer | ⚡ Future Founder</h3>
+<h3 align="center">🚀 AI Engineer | Full-Stack Developer | Future Founder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Full+Stack+Developer+(MERN);Exploring+Generative+AI;Future+Startup+Founder;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Full+Stack+Developer+(MERN);Exploring+Generative+AI;Creating+Startup+Level+Products" />
 </p>
 
 ---
 
 <!-- ===================== ABOUT ===================== -->
 
-<h2 align="center">⚡ About Me</h2>
+<h2 align="center">🧠 About Me</h2>
 
 <p align="center">
-🎓 Computer Science (AI & ML) student at Adani University <br>
-🧠 Passionate about AI, Machine Learning & real-world problem solving <br>
-💻 Building scalable full-stack applications using MERN & Python <br>
-🚀 Currently exploring Generative AI, MLOps & Agentic AI <br>
-🎯 Goal: Build impactful AI products & launch my own startup
+AI/ML student focused on building real-world intelligent systems.<br>
+I combine <b>Machine Learning</b> + <b>Full Stack Development</b> to create scalable products.<br>
+Currently exploring <b>Generative AI, MLOps & AI Agents</b>.
 </p>
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
+<!-- ===================== PROJECT CARDS ===================== -->
 
-<h2 align="center">🧠 Tech Stack</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flask,mongodb,mysql,git,github,linux" />
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshpatoliya27&repo=SmartCommerceAI&theme=tokyonight" />
+</a>
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshpatoliya27&repo=marketing-platform&theme=tokyonight" />
+</a>
+
 </p>
 
 <p align="center">
-🧩 Machine Learning | Deep Learning | CNN <br>
-🤖 Generative AI | LLMs | Prompt Engineering | LangChain <br>
-⚙️ MLOps | REST APIs | Data Visualization
+
+🧠 <b>Fruit Freshness AI</b> — CNN-based real-time classification <br>
+📊 <b>Marketing Platform</b> — MERN analytics dashboard <br>
+🎬 <b>Movie Revenue Prediction</b> — ML regression system <br>
+🤖 <b>Jarvis AI</b> — Upcoming intelligent assistant
+
+</p>
+
+---
+
+<!-- ===================== TECH ===================== -->
+
+<h2 align="center">⚙️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flask,mongodb,mysql,git,linux" />
+</p>
+
+<p align="center">
+Machine Learning • Deep Learning • LLMs • LangChain <br>
+REST APIs • System Design • Backend Engineering
 </p>
 
 ---
 
 <!-- ===================== STATS ===================== -->
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Dashboard</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshpatoliya&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=anshpatoliya&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshpatoliya&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p>
-
----
-
-<!-- ===================== PROJECTS ===================== -->
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-🔹 <b>Fruit Freshness Classification System</b> <br>
-→ CNN-based deep learning model for real-time fruit quality prediction 🍎 <br><br>
-
-🔹 <b>Marketing Platform (MERN Stack)</b> <br>
-→ Full-stack system for campaign management & analytics dashboards 📊 <br><br>
-
-🔹 <b>Movie Revenue Prediction</b> <br>
-→ ML model using regression & feature engineering 🎬 <br><br>
-
-🔹 <b>Future Project: Jarvis AI Assistant</b> 🤖
-
-</p>
-
----
-
-<!-- ===================== CERTIFICATIONS ===================== -->
-
-<h2 align="center">📜 Certifications</h2>
-
-<p align="center">
-✔️ MLOps for Generative AI – Google Cloud <br>
-✔️ Responsible AI for Developers – Google Cloud
-</p>
-
----
-
-<!-- ===================== ACHIEVEMENTS ===================== -->
-
-<h2 align="center">🏆 Focus & Vision</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%2FML-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-MERN-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Goal-Startup-orange?style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anshpatoliya27&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=anshpatoliya27&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -106,18 +82,18 @@
 <h2 align="center">🐍 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anshpatoliya/anshpatoliya/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/anshpatoliya27/anshpatoliya27/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 <!-- ===================== CONNECT ===================== -->
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">🌐 Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ansh-patoliya-755345359/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ansh%20Patoliya-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ansh-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:anshpatoliya8@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
@@ -132,5 +108,9 @@
 <!-- ===================== FOOTER ===================== -->
 
 <p align="center">
-⚡ <b>"Code. Build. Scale. Repeat."</b> ⚡
+⚡ "Build things that matter." ⚡
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
 </p>
