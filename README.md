@@ -35,7 +35,7 @@ Currently exploring <b>Generative AI, MLOps & AI Agents</b>.
 </a>
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshpatoliya27&repo=marketing-platform&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshpatoliya27&repo=Creatixo - Marketing platform&theme=tokyonight" />
 </a>
 
 </p>
