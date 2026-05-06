@@ -33,7 +33,6 @@ Currently exploring <b>Generative AI, MLOps & AI Agents</b>.
 🧠 <b>Fruit Freshness AI</b> — CNN-based real-time classification <br>
 📊 <b>Marketing Platform</b> — MERN analytics dashboard <br>
 🎬 <b>Movie Revenue Prediction</b> — ML regression system <br>
-🤖 <b>Jarvis AI</b> — Upcoming intelligent assistant
 </p>
 
 ---
@@ -95,31 +94,25 @@ Currently exploring <b>Generative AI, MLOps & AI Agents</b>.
 <h2 align="center">📊 GitHub Dashboard</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshpatoliya27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&hide=contribs" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=anshpatoliya27&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
 </div>
 
-<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshpatoliya27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" width="40%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anshpatoliya27&theme=tokyonight&utcOffset=5.5" width="40%" />
-</div>
+---
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshpatoliya27&theme=tokyonight" width="90%" />
-</div>
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+<h2 align="center">📈 Contribution Activity</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshpatoliya27&theme=tokyo-night&hide_border=true&area=true&area_color=00F7FF&line=00F7FF&point=8A2BE2&color=8A2BE2" width="95%" />
+</p>
 
 ---
 
 <!-- ===================== SNAKE ===================== -->
-<h2 align="center">🐍 Contribution Activity</h2>
+<h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/anshpatoliya27/anshpatoliya27/output/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
 <!-- ===================== CONNECT ===================== -->
